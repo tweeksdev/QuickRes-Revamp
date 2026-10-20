@@ -1,4 +1,4 @@
-# QuickRes
+# QuickRes Revamp
 <p align="center">
   <img src="QuickRes.png" width="140" alt="QuickRes">
 </p>
